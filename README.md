@@ -17,6 +17,11 @@
      - Use something like [crontab](https://www.tutorialspoint.com/unix_commands/crontab.htm) or a 24/7 server
 
 4. Installation:
+     - Dependecies:
+          - Beautiful Soup: `pip install bs4`
+          - Requests: `pip install requests`
+          - Typer: `pip install typer` 
+         
      - `git clone https://github.com/OrlatoDev/py-price-monitoring.git`
      - `cd py-price-monitoring`
-     - `python3 ./main.py` and follow the "template"
+     - `python ./main.py` and follow the "template"
