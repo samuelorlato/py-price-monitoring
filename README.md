@@ -4,7 +4,7 @@
 
 ### How to use?
 1. Follow this "template":
- `python3 main.py --to-email emailtoreceive@email.com --product-url https://mercadolivreurl.com --target-price 2000 --from-email fromemail@email.com --from-email-password password`
+ `python main.py --to-email emailtoreceive@email.com --product-url https://mercadolivreurl.com --target-price 2000 --from-email fromemail@email.com --from-email-password password`
       
 2. Some explanations:
      - **--to-email**: Email that you will receive the notifications
